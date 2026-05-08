@@ -1,0 +1,6 @@
+# fichier lourd dlib
+shape_predictor_68_face_landmarks.dat
+
+# cache python
+__pycache__/
+*.pyc
